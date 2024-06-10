@@ -18,9 +18,6 @@ class KeyListener:
         self.caoFanNiController = caoFanNiController
         self.listener = keyboard.Listener(on_press=self.on_press)
         self.listener.start()
-        self.level = config["initial_states"]["keyboard_level"]
-        self.tick = config["initial_states"]["keyboard_tick"]
-        self.soft_cap = config["soft_cap"]["keyboard"]
         self.PlayList = PlayList
         self.start_time = time.time()
         self.current_time = time.time() - self.start_time
