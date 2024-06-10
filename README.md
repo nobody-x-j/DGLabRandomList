@@ -124,7 +124,7 @@ pip install requests websockets loguru pynput
 python main.py
 ```
 
-点击鼠标就能看到手机app上显示相应通道有输出了
+按下键盘按键就能看到手机app上显示相应通道有输出了
 
 step 2: 再次开始游戏：
 
