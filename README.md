@@ -50,10 +50,10 @@ code
 
 ![image](https://github.com/nobody-x-j/images/blob/main/vscode_terminal_opened.png)
 
-4. 在终端输入 git clone https://github.com/nobody-x-j/DGLabMouseListener2.git 从而复制本代码到之前选择的文件夹
+4. 在终端输入 git clone https://github.com/nobody-x-j/DGLabRandomList.git 从而复制本代码到之前选择的文件夹
 
 ```shell
-git clone https://github.com/nobody-x-j/DGLabMouseListener2.git
+git clone https://github.com/nobody-x-j/DGLabRandomList.git
 ```
 
 ![image](https://github.com/nobody-x-j/images/blob/main/vscode_terminal_clone.png)
@@ -89,7 +89,7 @@ step 1: 安装以及设置
 1. 在终端输入 cd DGLabMouseListener2 切换到目标文件夹
 
 ```shell
-cd DGLabMouseListener2
+cd DGLabRandomList
 ```
 
 ![image](https://github.com/nobody-x-j/images/blob/main/vscode_cd.png)
@@ -137,7 +137,7 @@ code
 一般默认打开上次的文件夹，如果没有，请选择打开文件夹，选取程序所在文件夹，打开终端，输入：
 
 ```shell
-cd DGLabMouseListener2
+cd DGLabRandomList
 ```
 
 然后输入
